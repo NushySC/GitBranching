@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>This is a title</h1>
+
+    <footer>
+    &copy; <?php echo date('Y'); ?> The spectacular me
+    </footer>
     
 </body>
 </html>
